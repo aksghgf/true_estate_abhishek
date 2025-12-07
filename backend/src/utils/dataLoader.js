@@ -13,7 +13,7 @@ const __dirname = path.dirname(__filename);
 export async function loadSalesData() {
   return new Promise((resolve, reject) => {
     const results = [];
-    const csvPath = path.join(__dirname, '../../data/truestate_assignment_dataset.csv');
+    const csvPath = path.join(__dirname, '../../data/demo_dataset.csv');
 
     // Check if file exists
     if (!fs.existsSync(csvPath)) {

@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch src/index.js",
-    "start": "node src/index.js"
+    "start": "node --max-old-space-size=512 src/index.js",
+    "build": "echo 'No build required'"
   },
   "keywords": [],
   "author": "",
@@ -18,4 +19,5 @@
     "express": "^4.19.2",
     "joi": "^17.13.1"
   }
+  
 }
