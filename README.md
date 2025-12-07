@@ -1,5 +1,7 @@
 # TruEstate - Retail Sales Management System
 
+🚀 **[Live Demo](https://true-estate-abhishek-frontend.vercel.app/)** | 📊 **[Backend API](https://true-estate-abhishek.onrender.com)**
+
 A modern, full-stack enterprise sales management dashboard with advanced filtering, search, sorting, and real-time analytics capabilities. Built for the SDE Intern Assignment.
 
 ## 🚀 Tech Stack
