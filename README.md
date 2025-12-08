@@ -276,5 +276,5 @@ See [docs/DEPLOYMENT.md](./docs/DEPLOYMENT.md) for detailed platform-specific in
 
 ---
 
-**Built by:** [Your Name]  
+**Built by:** Abhishek Tiwari 
 **Assignment:** SDE Intern - TruEstate Sales Management System
